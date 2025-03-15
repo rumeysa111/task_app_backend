@@ -38,6 +38,9 @@ backend/
 ```
 
 ---
+### Frontend
+Frontend kodu ayrı bir GitHub reposunda bulunmaktadır:
+https://github.com/rumeysa111/task_app_frontend
 
 ## ⚙️ Kurulum ve Çalıştırma
 
